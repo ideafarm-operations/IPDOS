@@ -34,7 +34,6 @@ Patent rights are great for kitchen gizmos, but the idea sucks totally when appl
 IdeaFarm (tm) and SOIL (tm) are trademarks of Wo Of Ideafarm who, as Governing Proprietor of IdeaFarm (tm) City, holds them in trust for "humanity yet unborn".
 
 Since all rights to use the content herein is reserved (**no** license to use is granted), the following statement is superfluous.
-But the statement must be made.
 **No warranty of any kind is made or implied.**  You may only read the content herein.  You may not use it.  If you do so, you do so at your own risk.
 
 If any part of this declaration that all rights to copy are reserved is held to be unenforceable in any court of law, the terms of this declaration shall be severable.
