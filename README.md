@@ -15,4 +15,18 @@ If you are human and breathing, you are given the privilege of reading the sourc
 But this privilege is *NOT* accompanied by any license to use or do anything else with it.
 In particular, **you may not clone or fork this repository** (without written authorization).
 
+The source code or other content disclosed herein might contain patentable ideas.
+Any such ideas or other patentable intellectual property are hereby released into the public domain.
 
+All of the content herein was developed by a single person.
+Any patentable ideas contained herein were discovered independently and without the benefit of any review of published patents.
+Patent rights are great for kitchen gizmos, but the idea sucks totally when applied to software.
+*Message to patent trolls:  Eat Shit and Die.*
+
+IdeaFarm (tm) and SOIL (tm) are trademarks of Wo Of Ideafarm who, as Governing Proprietor of IdeaFarm (tm) City, holds them in trust for "humanity yet unborn".
+
+Since all rights to use the content herein is reserved (**no** license to use is granted), the following statement is superfluous.
+But the statement must be made.
+**No warranty of any kind is made or implied.**  You may only read the content herein.  You may not use it.  If you do so, you do so at your own risk.
+
+If any part of this declaration that all rights to copy are reserved is held to be unenforceable in any court of law, the terms of this declaration shall be severable.
