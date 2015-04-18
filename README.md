@@ -1,7 +1,15 @@
 
+
 # IPDOS
 
+
 ## IdeaFarm (tm) Piggyback Distributed Operating System
+
+
+IPDOS (tm) is a proprietary commercial software product that can be installed as a "Windows Service" on any recent version of Windows (XP and later).
+It is an "operating system" in the sense that, for the application programmer, it is a general purpose programming environment for the C++ and SOIL (tm) languages.
+End users can purchase paid subscriptions to IdeaFarm (tm) Bundle in order to use the IPDOS (tm) applications contained therein.
+
 
 ### Legal (Copying, Patents, Trademarks, and Warranties)
 
