@@ -7,8 +7,14 @@
 
 
 IPDOS (tm) is a proprietary commercial software product that can be installed as a "Windows Service" on any recent version of Windows (XP and later).
-It is an "operating system" in the sense that, for the application programmer, it is a general purpose programming environment for the C++ and SOIL (tm) languages.
+IPDOS (tm) is a general purpose programming environment for the C++ and SOIL (tm) languages.
+IPDOS (tm) is an operating system in the sense that it replaces what was originally called "win32", and is now called the Windows API, with a fundamentally different programming abstraction.
+IPDOS (tm) is a "piggyback" operating system because its API is a wrapper for the API of the base operating system on which it piggybacks.
+IPDOS (tm) was designed for portability across CPU architectures, CPU word sizes, and base API's.
+IPDOS (tm) is currently only available in one flavor: 32-bit Windows, which can be installed on both 32-bit and 64-bit Windows systems.
+
 End users can purchase paid subscriptions to IdeaFarm (tm) Bundle in order to use the IPDOS (tm) applications contained therein.
+IPDOS (tm) is currently only available for such end users; licenses to develop IPDOS (tm) applications are not currently offered.
 
 
 ### Legal (Copying, Patents, Trademarks, and Warranties)
